@@ -20,7 +20,7 @@ Imagine a user interface built with React as a collection of components, each re
 > 1. **Open the VS Code** terminal and navigate to the folder where you want to create your project.
 > 2. Run the following command to create a React app using *create-react-app:*
 >> - npx create-react-app my-app
->> - **Note:**Replace *my-app* with your preferred project name. This will create a new folder with all the project files.
+>> - **Note:** Replace *my-app* with your preferred project name. This will create a new folder with all the project files.
 
 ##### Step 3: Run the React Application
 
